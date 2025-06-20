@@ -1,6 +1,5 @@
 # Welcome to *Leet-them-eat-cake*
-@author Tobenna Okunna
-06/18/2025
+
 
 This is my cynical, masochistic, take on "LeetCode" problems. 
 Mainly ranging from easy to medium, w/ a few hard tossed in for good measure. 
